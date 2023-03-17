@@ -1,0 +1,62 @@
+.divform {
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+}
+
+.form {
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+}
+
+.inputEmail {
+    height: 30px;
+    font-size: .8rem;
+    color: rgb(44, 77, 167);
+    border-radius: 6px;
+    border-width: 1px;
+
+}
+
+.inputPassword {
+    height: 30px;
+    font-size: .8rem;
+    color: rgb(44, 77, 167);
+    border-radius: 6px;
+    border-width: 1px;
+}
+
+.labelEmail {
+    font-size: 1rem;
+}
+
+.labelPassword {
+    font-size: 1rem;
+}
+
+.buttonLogin {
+    width: 100px;
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+.succes {
+    border-color: green;
+    height: 30px;
+    font-size: .8rem;
+    color: rgb(44, 77, 167);
+    border-radius: 6px;
+    border-width: 2px;
+    background-color: rgb(243, 255, 243);
+}
+
+.error {
+    border-color: red;
+    height: 30px;
+    font-size: .8rem;
+    color: rgb(44, 77, 167);
+    border-radius: 6px;
+    border-width: 2px;
+    background-color: rgb(253, 240, 240);
+}

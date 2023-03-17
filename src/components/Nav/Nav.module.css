@@ -1,0 +1,46 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding: 10px;
+    background-color: rgb(248, 149, 35);
+}
+/* background-color: rgb(173, 197, 250);
+ */
+
+.h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.links {
+    
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    justify-content: space-evenly;
+    
+}
+
+.linkColumn {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    text-decoration: none;
+}
+
+.divSearchBar {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
+.searchRandom {
+    margin-right: 15px;
+    border-radius: 7px;
+    border: none;
+}
+
+.searchRandom:hover {
+    cursor: pointer;
+}

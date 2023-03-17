@@ -1,0 +1,22 @@
+
+.buttonSearch {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(32, 68, 146);
+    color: white;
+    border-radius: 5px;
+    transition: .2s;
+    border: none;
+}
+
+.buttonSearch:hover {
+    background-color: rgb(25, 52, 110);
+    cursor: pointer;
+}
+
+.input {
+    font-size: 1.1rem;
+    border-radius: 7px 0 0 7px;
+    width: 250px;
+    border: none;
+}

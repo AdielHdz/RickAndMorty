@@ -1,0 +1,4 @@
+.baseCards {
+    display: flex;
+    flex-direction: row;
+}
